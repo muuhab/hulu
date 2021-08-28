@@ -1,5 +1,5 @@
 # Hulu CLone
-![alt text](https://i.ibb.co/s5Z99nW/Screenshot-1.png)
+![alt text](https://i.ibb.co/2NbKh7R/screencapture-hulu-delta-vercel-app-2021-08-28-21-30-41.png)
 ## Features
 
 - Movies information
