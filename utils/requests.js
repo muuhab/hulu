@@ -13,6 +13,10 @@ export default {
         title:'Action',
         url:`/discover/movie?api_key=${Api_Key}&with_genres=28`
     },
+    fetchWarMovies:{
+        title:'War',
+        url:`/discover/movie?api_key=${Api_Key}&with_genres=10752`
+    },
     fetchComedyMovies:{
         title:'Comedy',
         url:`/discover/movie?api_key=${Api_Key}&with_genres=35`
@@ -20,6 +24,10 @@ export default {
     fetchHorrorMovies:{
         title:'Horror',
         url:`/discover/movie?api_key=${Api_Key}&with_genres=27`
+    },
+    fetchMysteryMovies:{
+        title:'Mystery',
+        url:`/discover/movie?api_key=${Api_Key}&with_genres=9648`
     },
     fetchRomanceMovies:{
         title:'Romance',
