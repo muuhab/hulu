@@ -2,9 +2,9 @@
 
 ## Features
 
--Movies information
--Show movies by genre
--Show trendy movies
+- Movies information
+- Show movies by genre
+- Show trendy movies
 
 ## Tech
 
