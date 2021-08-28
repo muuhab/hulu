@@ -1,5 +1,5 @@
 # Hulu CLone
-
+![alt text](https://i.ibb.co/s5Z99nW/Screenshot-1.png)
 ## Features
 
 - Movies information
