@@ -8,7 +8,7 @@ import requests from "../utils/requests";
 export default function Home({results}) {
   return (
     <div>
-      <Meta keyword="hulu, delta, mohab, movies, movie, trending, web devlopment, programming, muhab"
+      <Meta keywords="hulu, delta, mohab, movies, movie, trending, web devlopment, programming, muhab"
       />
       <Header />
       <Nav />
